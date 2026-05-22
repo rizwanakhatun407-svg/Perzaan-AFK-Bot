@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kaif778866.aternos.me:50485",
+    "ip": "Kaif778866.aternos.me",
     "port": 50485,
     "version": "1.21.1"
   },
